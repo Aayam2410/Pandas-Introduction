@@ -1,1 +1,3 @@
 matches.csv ------> https://docs.google.com/spreadsheets/d/1lhoRGl8lm-_Rx2H1kman6wSZS0Bfa0BhtV1vouKyaCM/edit
+
+After opening the link, go to 'File' and select 'Download' and in that select 'comma-separated-value'.
