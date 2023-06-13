@@ -7,3 +7,6 @@ Pandas is a versatile library that provides easy-to-use data structures and data
 By exploring this Pandas Introduction Repository, you will acquire the skills and knowledge necessary to effectively work with structured data, perform data analysis, and derive meaningful insights. Whether you are a beginner or an experienced data professional, this repository aims to provide a comprehensive resource to enhance your data manipulation and analysis capabilities using Pandas.
 
 Start your Pandas journey today!!
+
+
+NOTE: I would recommend you to download the dataset from the .txt file provided alongwith the repository.
