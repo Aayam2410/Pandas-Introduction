@@ -1,4 +1,4 @@
 matches.csv ------> https://docs.google.com/spreadsheets/d/1lhoRGl8lm-_Rx2H1kman6wSZS0Bfa0BhtV1vouKyaCM/edit
 After opening the link, go to 'File' and select 'Download' and in that select 'comma-separated-value'. (instructions for the above link)
 
-fortune.csv ------> https://www.kaggle.com/datasets/shaz13/fotune500-2017
+deliveries.csv ------> https://www.kaggle.com/datasets/manasgarg/ipl
