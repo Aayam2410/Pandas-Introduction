@@ -2,3 +2,4 @@ matches.csv ------> https://docs.google.com/spreadsheets/d/1lhoRGl8lm-_Rx2H1kman
 After opening the link, go to 'File' and select 'Download' and in that select 'comma-separated-value'. (instructions for the above link)
 
 deliveries.csv ------> https://www.kaggle.com/datasets/manasgarg/ipl
+train.csv ------> https://www.kaggle.com/datasets/hesh97/titanicdataset-traincsv
